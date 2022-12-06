@@ -52,7 +52,7 @@ Variables utilizadas: **suecananobold, suecananomedium** para las fuenrtes san s
 
 ## Uso de librerías
 Se pueden usar todos los recursos que consideren oportuno para la realización del proyecto. 
-Se valorará mas el uso de VUE.js y css puro, es decir sin librerias del estilo Bootstrap, pero no es excluyemte.
+Se valorará el uso de VUE.js y css puro, es decir sin librerías del estilo Bootstrap, pero no es excluyente.
 
 
 ## SUBIR EL PROYECTO A GITHUB PAGES
