@@ -50,4 +50,8 @@ DG: DIFERENCIA DE GOL (GF - GC)
 https://especialess3.lanacion.com.ar/fonts/fontsWithPrumo.css  
 Variables utilizadas: **suecananobold, suecananomedium** para las fuenrtes san serif y **suecaslab** para las serif
 
+## Uso de librerías
+Para 
+
+
 ## SUBIR EL PROYECTO A GITHUB PAGES
