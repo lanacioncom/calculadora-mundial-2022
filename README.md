@@ -51,7 +51,8 @@ https://especialess3.lanacion.com.ar/fonts/fontsWithPrumo.css
 Variables utilizadas: **suecananobold, suecananomedium** para las fuenrtes san serif y **suecaslab** para las serif
 
 ## Uso de librerías
-Para 
+Se pueden usar todos los recursos que consideren oportuno para la realización del proyecto. 
+Se valorará mas el uso de VUE.js y css puro, es decir sin librerias del estilo Bootstrap, pero no es excluyemte.
 
 
 ## SUBIR EL PROYECTO A GITHUB PAGES
